@@ -8,7 +8,7 @@
            <script href="js/bootstrap.min.js"></script>
            <script href="jsquery-1.12.1.min.js"></script>
         </head>
-        <body background ="http://livedoor.blogimg.jp/netagazou_okiba/imgs/0/1/01a345fd.gif"/>
+        <body background ="http://p1.pichost.me/i/38/1613838.jpg"/>
         <nav class="nav navbar-inverse">
         <div class="container-fluid">
         
@@ -46,10 +46,8 @@
           </div>
           <style>
           body{
-          background-image:url("http://livedoor.blogimg.jp/netagazou_okiba/imgs/0/1/01a345fd.gif");
-          	background-size: 1560px 900px;
+          background-image:url("http://p1.pichost.me/i/38/1613838.jpg");
           background-repeat:no-repeat;
-          
           }
           </style>
         </body>
